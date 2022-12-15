@@ -39,9 +39,6 @@ I publish open source software here. All the repositories are at your disposal.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoyiX&layout=compact&theme=dark)
 
-### 💸 Donate
+### 💸 GITHUB
 
-🔸 Bitcoin: `KRgXmYvzxkNgd5Kt9iEoRe4szXW8Ag4yc`
-
-🔸 Ethereum: `0x80DF1CaB786398503f991AAF3B48Be06044CF42F`
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiangUncle)](https://github.com/anuraghazra/github-readme-stats)
