@@ -23,7 +23,11 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vercel,figma,vscode,idea,vim,atom,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,fastapi,flask,md,regex,aws,azure,linux,bash,docker,kubernetes,ansible,grafana,prometheus,nginx,jenkins)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,kubernetes,docker,go,py,mysql,redis,vim,vscode,ai,ps,pr,latex" />
+  </a>
+</p>
 
 ### 💻 Activity Graph
 
